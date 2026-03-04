@@ -1,4 +1,4 @@
-[![Github Action (master)](https://github.com/cyber-dojo-start-points/r-runit/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/r-runit/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
   
 ### display_name="R 4.3.3, RUnit"
 ### image_name=[ghcr.io/cyber-dojo-languages/r_runit](https://ghcr.io/cyber-dojo-languages/r_runit)
