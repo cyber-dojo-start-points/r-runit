@@ -1,11 +1,12 @@
 {
   "display_name": "R 4.3.3, RUnit 0.4.33.1",
-  "image_name": "ghcr.io/cyber-dojo-languages/r_runit:9129af4",
+  "image_name": "ghcr.io/cyber-dojo-languages/r_runit:265c9f4",
   "visible_filenames": [
     "hiker.tests.R",
     "hiker.R",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".R"
   ],
