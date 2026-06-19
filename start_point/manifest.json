@@ -1,5 +1,13 @@
 {
   "display_name": "R 4.3.3, RUnit 0.4.33.1",
+  "language": [
+    "R",
+    "4.3.3"
+  ],
+  "test_framework": [
+    "RUnit",
+    "0.4.33.1"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/r_runit:265c9f4",
   "visible_filenames": [
     "hiker.tests.R",
