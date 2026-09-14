@@ -1,0 +1,14 @@
+{
+  "matches": [
+    "^FAILURE in test\\.answer_is_under_50: Error in checkTrue\\(answer\\(\\) < 50\\) : Test not TRUE$"
+  ],
+  "match_counts": {
+    "^Number of test functions: 3 *$": 1,
+    "^Number of errors: 0 *$": 1,
+    "^Number of failures: 3 *$": 1,
+    "^test\\.answer_is_42: FAILURE !! \\(check number 1\\)$": 1,
+    "^test\\.answer_is_under_50: FAILURE !! \\(check number 1\\)$": 1,
+    "^test\\.half_the_answer_is_21: FAILURE !! \\(check number 1\\)$": 1
+  },
+  "truncated": false
+}

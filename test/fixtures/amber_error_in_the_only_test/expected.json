@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^Error in answer\\(\\) : the ships computer is down$"
+  ],
+  "match_counts": {
+    "^Execution halted$": 1,
+    "^\\[1\\] TRUE$": 0,
+    "All tests passed": 0
+  }
+}

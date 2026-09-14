@@ -1,0 +1,10 @@
+{
+  "matches": [
+    "^debug: i is 1 and the answer is 42 *$"
+  ],
+  "match_counts": {
+    "All tests passed": 0,
+    "^\\[1\\] TRUE$": 0
+  },
+  "truncated": true
+}

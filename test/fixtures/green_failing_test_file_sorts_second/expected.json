@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 6,
+  "match_counts": {
+    "^\\[1\\] TRUE$": 1,
+    "^\\[1\\] \"All tests passed\"$": 1,
+    "the second file ran": 0,
+    "^Error in check": 0
+  },
+  "truncated": false
+}

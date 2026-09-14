@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^ERROR in test\\.answer_in_words: Error in answer_in_words\\(\\) : not written yet$"
+  ],
+  "match_counts": {
+    "^Number of test functions: 2 *$": 1,
+    "^Number of errors: 1 *$": 1,
+    "^Number of failures: 1 *$": 1,
+    "^test\\.answer_in_words: ERROR !! *$": 1,
+    "^test\\.answer_is_42: FAILURE !! \\(check number 1\\)$": 1
+  },
+  "truncated": false
+}

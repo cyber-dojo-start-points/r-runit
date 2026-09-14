@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^Error in checkEquals\\(99, answer\\(\\)\\) : Mean relative difference: "
+  ],
+  "match_counts": {
+    "^Execution halted$": 1,
+    "^\\[1\\] TRUE$": 0,
+    "the hiker file ran": 0
+  },
+  "truncated": false
+}

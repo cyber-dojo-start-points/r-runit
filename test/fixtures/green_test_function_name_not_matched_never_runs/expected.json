@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 34,
+  "match_counts": {
+    "^Number of test functions: 0 *$": 1,
+    "^Number of errors: 0 *$": 1,
+    "^Number of failures: 0 *$": 1,
+    "^Test function regexp: \\^test": 1,
+    "Executing test function": 0,
+    "^\\[1\\] \"All tests passed\"$": 1
+  },
+  "truncated": false
+}

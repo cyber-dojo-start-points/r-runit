@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^Error in checkEquals\\(42, answer\\(\\)\\) : Mean relative difference: "
+  ],
+  "match_counts": {
+    "^\\[1\\] TRUE$": 1,
+    "^Execution halted$": 1,
+    "All tests passed": 0
+  },
+  "truncated": false
+}

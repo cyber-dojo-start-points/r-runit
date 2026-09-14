@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 4,
+  "match_counts": {
+    "^\\[1\\] \"All tests passed\"$": 1,
+    "^\\[1\\] TRUE$": 0
+  },
+  "truncated": false
+}

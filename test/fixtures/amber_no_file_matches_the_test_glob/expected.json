@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^Fatal error: cannot open file '\\*\\.tests\\.R': No such file or directory$": 1,
+    "^\\[1\\] TRUE$": 0,
+    "All tests passed": 0
+  }
+}
